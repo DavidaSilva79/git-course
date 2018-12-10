@@ -1,6 +1,6 @@
 #Git
 controle de versionamento / gerenciar versoes / sistema de controle de versao / estados x diferenças 
-avançar,voltar 
+avançar,voltarr 
 
 #GitHub
 serviço web para armazenar projetos versionados em git
